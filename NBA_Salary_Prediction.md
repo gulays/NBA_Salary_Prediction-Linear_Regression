@@ -20,4 +20,5 @@ Some tools that will be used are:
 ##  MVP Goal:
 The EDA and the initial linear regression model. 
 
-Back-up plan: to predict [Box Plus/Minus metric](https://www.basketball-reference.com/about/bpm2.html) by using the data of players' game stats. 
+Back-up plan1: to predict [Box Plus/Minus metric](https://www.basketball-reference.com/about/bpm2.html) by using the data of players' game stats. 
+Back-up plan2: to predict movie revenues using the data from Box Office Mojo.
