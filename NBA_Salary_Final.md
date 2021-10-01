@@ -1,12 +1,8 @@
 ﻿
 
-Gulay Samatli-Pac
-
 **Best NBA Players, Value for Money**
 
-**Web Scraping and Linear Regression Project to Predict**
-
-**Salaries**
+**Web Scraping and Linear Regression Project to Predict Salaries**
 
 **1. Introduction**
 
@@ -30,35 +26,10 @@ The data is scraped from the [Basketball](https://www.basketball-reference.com/)
 
 have been collected are:
 
-\-
-
-\-
 
 Players annual salaries,
 
 Players per game statistics:
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
 
 Age -- Player's age on February 1 of the season
 
@@ -94,35 +65,7 @@ DRB -- Defensive Rebounds Per Game
 
 TRB -- Total Rebounds Per Game
 
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
-
 AST -- Assists Per Game
-
-
-
-
-
-Gulay Samatli-Pac
-
-\-
-
-\-
-
-\-
-
-\-
-
-\-
 
 STL -- Steals Per Game
 
